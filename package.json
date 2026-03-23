@@ -21,4 +21,5 @@
  },
  "overrides":{
   "node-domexception": "2.0,1"
+ }
 }
